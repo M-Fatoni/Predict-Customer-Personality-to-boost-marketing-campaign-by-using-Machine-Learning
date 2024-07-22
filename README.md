@@ -50,21 +50,21 @@ Terdapat beberapa tumpang tindih (overlapping) antara cluster 3, 1, dan 2. Ini m
 ## 4. Business Recommendations
 
 **Cluster 3: Pelanggan High-Value**
-**Strategi:**
+- **Strategi:**
 - **Program Loyalitas:** Implementasikan program loyalitas yang sangat menarik untuk mempertahankan dan meningkatkan keterlibatan pelanggan.
 - **Personalisasi:** Tawarkan produk dan layanan yang sangat disesuaikan dengan preferensi individu.
 - **Eksklusivitas:** Buat program atau event eksklusif untuk memberikan pengalaman belanja yang istimewa.
 - **Cross-Selling dan Up-Selling:** Agressif dalam menawarkan produk atau layanan komplementer untuk meningkatkan nilai pesanan rata-rata.
 
 **Cluster 1: Pelanggan Potensial**
-**Strategi:**
+- **Strategi:**
 - **Nurturing:** Lakukan upaya untuk meningkatkan frekuensi pembelian dan nilai pesanan rata-rata.
 - **Personalisasi:** Tawarkan rekomendasi produk yang relevan berdasarkan riwayat pembelian.
 - **Retargeting:** Gunakan iklan retargeting untuk mengingatkan pelanggan tentang produk yang pernah mereka lihat.
 - **Promosi Khusus:** Tawarkan diskon atau promo khusus untuk mendorong pembelian pertama atau kedua.
 
 **Cluster 2: Pelanggan Perlu Perhatian**
-**Strategi:**
+- **Strategi:**
 - **Analisis Mendalam:** Lakukan analisis lebih lanjut untuk memahami alasan mengapa pelanggan di cluster ini kurang aktif.
 - **Personalisasi:** Tawarkan produk atau layanan yang sesuai dengan kebutuhan spesifik mereka.
 - **Komunikasi:** Tingkatkan komunikasi dengan pelanggan melalui berbagai saluran (email, SMS, sosial media).
